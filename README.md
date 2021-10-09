@@ -1,0 +1,2 @@
+# Furniture-Production-DBMS
+Our project basically deals with how WOODEN FURNITURE production occurs in an industry and how we can manage the whole factory with DBMS. It basically provides information regarding the basic FURNITURE manufacturing process such as raw material handling, types of people involved, departments handling different tasks. The database contains details of all the Engineers, workers, departments, their relationships among themselves etc. Through this PROJECT one may get a basic overview of the general aspects of a FURNITURE industry.
